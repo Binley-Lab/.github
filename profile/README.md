@@ -1,5 +1,8 @@
 ## Hi there 👋
 This page is in progress.
+
+For information about getting started in the Binley Lab, see the Lab Manual [here](https://binley-lab.github.io/Lab_Manual/).
+
 <!--
 
 **Here are some ideas to get you started:**
